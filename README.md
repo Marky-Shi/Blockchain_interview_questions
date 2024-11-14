@@ -1,2 +1,2 @@
 # Blockchain_interview_questions
-Blockchain interview questions 助力你拿下offer
+Blockchain interview questions  面试指南
